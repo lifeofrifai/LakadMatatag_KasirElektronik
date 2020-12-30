@@ -1,0 +1,24 @@
+*DESKRIPSI*
+
+Dalam projek ini kami membuat aplikasi kasir toko elektronik yang digunakan untuk aktivitas perhitungan barang secara elektronik. 
+contohnya dapat kita lihat di kasir Alfamart, Indomaret, Transmart, dan lain-lainnya.
+
+*FITUR*
+1. Nama Barang
+2. Harga Barang
+3. Jumlah Beli
+4. Jumlah Harga
+5. Discount
+6. Total Biaya
+7. Total Bayar
+8. Uang Kembalian
+
+*DIAGRAM PROSES*
+1. Membuka Aplikasi
+2. Isi barang yang ingin dibeli
+
+*DIAGRAM CLASS*
+1. Class KasirToko
+	- Menggunakan method constructor()
+	- Menggunakan method namabrg()
+2. Class Main
