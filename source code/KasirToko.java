@@ -69,7 +69,7 @@ private void initComponents() {
 
     jLabel3.setText("JUMLAH BELI");
 
-    jLabel4.setText("JUMLAH HARGA");
+    jLabel4.setText("JUMLAH HARGAaa");
 
     jLabel5.setText("DISCOUNT");
 
